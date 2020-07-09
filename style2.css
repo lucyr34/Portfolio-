@@ -1,0 +1,11 @@
+p {
+   color: plum;
+   font-size: 40;
+   font-family: "Times New Roman", Times, serif;     
+}
+div {
+    width: 700px;
+    border: 15px double blue;
+    padding: 5;
+    margin: 20px;
+  }
