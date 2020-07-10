@@ -3,3 +3,25 @@ p {
     font-size: 30px;
     font-family: "Lucida Console", Courier, monospace;    
 }
+#trying {
+    color: purple;
+}
+img {
+    float: left;
+}
+.trying {
+    width: 700px;
+    border: 20px blue;
+    padding: 5;
+    margin: 20px;
+  }
+  img {
+        width: 700px;
+        border: 15px blue;
+        padding: 5;
+        margin: 20px;
+      
+  }
+  button {
+      text-decoration-color:  white; 
+  }

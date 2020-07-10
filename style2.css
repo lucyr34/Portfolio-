@@ -1,11 +1,12 @@
 p {
    color: plum;
-   font-size: 40;
+   font-size: 60;
    font-family: "Times New Roman", Times, serif;     
 }
 div {
     width: 700px;
-    border: 15px double blue;
+    border: 15px ridge blue;
     padding: 5;
     margin: 20px;
   }
+  
